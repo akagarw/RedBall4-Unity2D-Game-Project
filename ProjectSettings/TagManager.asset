@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - GroundCheck
+  - FallDetector
+  - Checkpoint
+  - Enemy
+  - CameraCheck
+  - GoldCoin
+  - SilverCoin
+  - Lives
+  - Exit
+  - MovingPlank
+  - EnemyBox
+  - Ball
+  - FallDetect
+  - CheckPoint
+  - CheckPointTag
+  - ExitPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - groundLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1783977979
+    locked: 0
+  - name: Midground
+    uniqueID: 3488632841
+    locked: 0
+  - name: Midground2
+    uniqueID: 4251283143
+    locked: 0
+  - name: Foreground
+    uniqueID: 3715220123
+    locked: 0
+  - name: Foreground2
+    uniqueID: 3001063103
+    locked: 0
